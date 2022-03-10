@@ -32,7 +32,7 @@
 <hr>
 </br>
 
-## Github Profile View Count <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/> <img align="right" margin-top="30px" src="https://profile-counter.glitch.me/CoderTarun/count.svg" />
+## Github Profile View Count <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/> <img align="right" margin-top="30px" src="https://profile-counter.glitch.me/AhirwarTarun27/count.svg" />
 
 </br>
 
@@ -60,15 +60,15 @@
 </br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderTarun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tarun Ahirwar's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhirwarTarun27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tarun Ahirwar's Github Stats">
 
 </br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderTarun&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhirwarTarun27&theme=radical)
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoderTarun)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhirwarTarun27)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
@@ -76,9 +76,9 @@
 
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=CoderTarun&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AhirwarTarun27&theme=gruvbox&hide_border=true&area=true)
 
 <!---
-CoderTarun/CoderTarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AhirwarTarun27/AhirwarTarun27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
