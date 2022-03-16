@@ -16,7 +16,7 @@
 
 </br>
 
-- 🔭 I’m currently working on the replica of the website **nordstrom.com** and individual **50 mini-projects**
+- 🔭 I’m currently working on the replica of the website **nordstrom.com** and individual **mini-projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
