@@ -29,13 +29,13 @@ const tarun = {
     passion: "Building exceptional user experiences",
     
     expertise: {
-        frontend: ["React", "TypeScript", "Vue.js"],
-        stateManagement: ["Redux", "Context API", "Pinia"],
+        frontend: ["React", "Next", "TypeScript",],
+        stateManagement: ["Zustand", "Redux", "Context API"],
         performance: ["Core Web Vitals", "Optimization"],
-        testing: ["Unit", "Integration", "E2E"]
+        testing: ["React Testing Library", "Jest"]
     },
     
-    currentlyWorking: "Enterprise Cloud Solutions @ThinkSys",
+    currentlyWorking: "Enterprise Cloud Solutions: CloudForestX @ThinkSys",
     openToCollaborate: true,
     hireable: true
 };
@@ -75,8 +75,6 @@ const tarun = {
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
