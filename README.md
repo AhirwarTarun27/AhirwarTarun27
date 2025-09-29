@@ -32,7 +32,7 @@ const tarun = {
         frontend: ["React", "Next", "TypeScript",],
         stateManagement: ["Zustand", "Redux", "Context API"],
         performance: ["Core Web Vitals", "Optimization"],
-        testing: ["React Testing Library", "Jest"]
+        testing: ["React Testing Library", "Vitest"]
     },
     
     currentlyWorking: "Enterprise Cloud Solutions: CloudForestX @ThinkSys",
@@ -143,7 +143,7 @@ const tarun = {
 - **React Ecosystem**: Hooks, Context API, Custom Hooks
 - **TypeScript**: Type-safe development
 - **Performance**: Virtual scrolling, lazy loading, code splitting
-- **Testing**: Jest, Testing Library, E2E testing
+- **Testing**: React Testing Library, Vitest
 - **Accessibility**: WCAG compliance, ARIA standards
 
 </td>
