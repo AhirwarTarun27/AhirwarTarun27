@@ -24,7 +24,7 @@
 ```javascript
 const tarun = {
     role: "Senior Software Developer",
-    experience: "3.5+ years",
+    experience: "4+ years",
     location: "Noida, India",
     passion: "Building exceptional user experiences",
     
