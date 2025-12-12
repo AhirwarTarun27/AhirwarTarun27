@@ -23,7 +23,7 @@
 
 ```javascript
 const tarun = {
-    role: "Senior Frontend Developer",
+    role: "Senior Software Developer",
     experience: "3.5+ years",
     location: "Noida, India",
     passion: "Building exceptional user experiences",
